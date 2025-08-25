@@ -1,0 +1,11 @@
+E:\RecipeApp\RecipeApp.Domain\bin\Debug\net9.0\RecipeApp.Domain.deps.json
+E:\RecipeApp\RecipeApp.Domain\bin\Debug\net9.0\RecipeApp.Domain.dll
+E:\RecipeApp\RecipeApp.Domain\bin\Debug\net9.0\RecipeApp.Domain.pdb
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.AssemblyInfoInputs.cache
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.AssemblyInfo.cs
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.csproj.CoreCompileInputs.cache
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.dll
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\refint\RecipeApp.Domain.dll
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\RecipeApp.Domain.pdb
+E:\RecipeApp\RecipeApp.Domain\obj\Debug\net9.0\ref\RecipeApp.Domain.dll
