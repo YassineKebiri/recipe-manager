@@ -18,10 +18,10 @@ Recipe Manager permet aux utilisateurs de créer des comptes et de gérer leurs 
 
 RecipeApp.Api/              # API Controllers & Configuration
 RecipeApp.Application/      # Business Logic & CQRS
-├── Commands/              # Write Operations
-├── Queries/               # Read Operations  
-├── Validators/            # FluentValidation Rules
-└── Events/               # Domain Events
+Commands/              # Write Operations
+Queries/               # Read Operations  
+Validators/            # FluentValidation Rules
+Events/               # Domain Events
 RecipeApp.Domain/          # Entités & Interfaces
 RecipeApp.Infrastructure/  # Data Access & External Services
 
@@ -29,11 +29,11 @@ RecipeApp.Infrastructure/  # Data Access & External Services
 #Frontend (React + TypeScript)
 
 src/
-├── components/           # Composants React réutilisables
-├── services/            # API Client & HTTP calls
-├── types/              # Interfaces TypeScript
-├── hooks/              # Custom React Hooks
-└── pages/              # Pages principales
+Components/           # Composants React réutilisables
+services/            # API Client & HTTP calls
+types/              # Interfaces TypeScript
+hooks/              # Custom React Hooks
+pages/              # Pages principales
 
 
 #Démarrage Rapide
