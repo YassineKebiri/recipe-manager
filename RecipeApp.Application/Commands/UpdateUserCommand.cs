@@ -1,4 +1,3 @@
-// UpdateUserCommand.cs - Ajustement pour correspondre aux capacités de User
 using MediatR;
 
 namespace RecipeApp.Application.Commands

@@ -1,4 +1,3 @@
-// CreateUserCommandHandler.cs - Version corrigée
 using MediatR;
 using RecipeApp.Application.Common;
 using RecipeApp.Domain.Entities;

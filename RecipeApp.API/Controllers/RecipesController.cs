@@ -1,4 +1,3 @@
-// RecipeApp.API/Controllers/RecipesController.cs - Version corrigée
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
